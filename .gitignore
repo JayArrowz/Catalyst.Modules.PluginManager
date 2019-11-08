@@ -1,0 +1,9 @@
+
+Catalyst.Modules.PluginManager/bin/
+Catalyst.Modules.PluginManager/obj/Catalyst.Modules.PluginManager.csproj.nuget.cache
+Catalyst.Modules.PluginManager/obj/Catalyst.Modules.PluginManager.csproj.nuget.g.targets
+Catalyst.Modules.PluginManager/obj/Catalyst.Modules.PluginManager.csproj.nuget.g.props
+Catalyst.Modules.PluginManager/obj/Catalyst.Modules.PluginManager.csproj.nuget.dgspec.json
+*.cache
+Catalyst.Modules.PluginManager/obj/Debug/netcoreapp3.0/Catalyst.Modules.PluginManager.csproj.FileListAbsolute.txt
+Catalyst.Modules.PluginManager/obj/
