@@ -2,7 +2,7 @@
 Catalyst.Modules.PluginManager
 
 Loads DLL's via a specified plugin folder. This module will search for "plugin.json" inside all folders in the plugin path. plugin.json
-contains infomation on what modules to load and module paramters if needed. Multiple modules can be loaded via 1 assembly plugin.json, if a module 
+contains infomation on what modules to load and module paramters if needed. Multiple modules can be loaded via 1 assembly, if a module 
 constructor contains a paramteter then it can be set also via the json file with the json key being the module class name 
 as shown in the example. The PluginManager will also load all the DLL's inside the directories where plugin.json exists.
 
